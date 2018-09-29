@@ -9,9 +9,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Amir Asarbaev # add your name
 author-img: asarbaev_a.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+about-author: Hello everyone! My name is Amir. I'm a graduate student in Data Science at ENSIMAG engineering school of Grenoble. Here you can explore my projects. # add description
+
 social-github: asarbaev # add your Github handle
 social-linkedin: amir-asarbaev # add your Linkedin handle
 social-email: asarbaevamir@gmail.com # add your Email address
